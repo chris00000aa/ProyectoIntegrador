@@ -6,7 +6,7 @@
 * Keylie González Soberanis
 
 ---
-### Link del repositorio **`https://github.com/chris00000aa/ProyectoIntegrador.git`**
+Link del repositorio **`https://github.com/chris00000aa/ProyectoIntegrador.git`**
 
 ## Objetivo del proyecto
 

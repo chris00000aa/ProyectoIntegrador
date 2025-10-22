@@ -11,7 +11,7 @@ El objetivo principal fue ejecutar un proyecto de **control de versiones (Git)**
 
 ---
 
-##  Metodología de Trabajo y Gestión de Ramas (Git) 🧑‍💻
+##  Metodología de Trabajo y Gestión de Ramas (Git) 
 
 La metodología se centró en la **división del trabajo por ramas funcionales** para asegurar la trazabilidad y la integridad de la rama principal (`main`).
 
@@ -41,7 +41,7 @@ Se revisó el documento base con 10 variables lingüísticas y musicales. Estas 
 
 ---
 
-##  Relación con la Ingeniería del Lenguaje y la Lógica 💡
+##  Relación con la Ingeniería del Lenguaje y la Lógica 
 
 El proyecto aplicó un **enfoque de ingeniería del lenguaje**, tratando cada variable como un **parámetro medible** dentro de un **sistema de traducción/adaptación**.
 

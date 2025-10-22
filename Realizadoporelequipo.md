@@ -1,10 +1,11 @@
 # Reporte del Equipo — Proyecto GitHub: Base de Datos y Gestión de Ramas 
 
 * Base de Datos y Gestión de Ramas
-*Equipo:*  Christian Jesus Pacheco Robles
-           Ana Laura Flores Barcenas
-           Carlos Pérez García
-           Keylie González Soberanis
+*Equipo:*
+* Christian Jesus Pacheco Robles
+* Ana Laura Flores Barcenas
+* Carlos Pérez García
+* Keylie González Soberanis
 
 ---
 Link del repositorio **`https://github.com/chris00000aa/ProyectoIntegrador.git`**

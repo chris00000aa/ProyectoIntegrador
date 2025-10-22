@@ -1,4 +1,4 @@
-# Reporte del Equipo — Proyecto GitHub: Base de Datos y Gestión de Ramas 📊
+# Reporte del Equipo — Proyecto GitHub: Base de Datos y Gestión de Ramas 
 
 * Base de Datos y Gestión de Ramas
 *Equipo:* (Nombre del Integrante 1), (Nombre del Integrante 2), (Nombre del Integrante 3), (Nombre del Integrante 4)

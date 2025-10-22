@@ -4,6 +4,7 @@
 *Equipo:* (Nombre del Integrante 1), (Nombre del Integrante 2), (Nombre del Integrante 3), (Nombre del Integrante 4)
 
 ---
+Link del repositorio **`https://github.com/chris00000aa/ProyectoIntegrador.git`**
 
 ## Objetivo del proyecto
 
@@ -58,4 +59,4 @@ La comparación de la base de datos se interpretó como un **ajuste de parámetr
 
 ##  Estructura final del repositorio
 
-El repositorio **`proyecto-huntrix-variables`** refleja la división del trabajo y el control de versiones aplicado:
+El repositorio **`PROYECTO-GITHUB`** refleja la división del trabajo y el control de versiones aplicado:
